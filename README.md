@@ -25,4 +25,4 @@ If you face any errors, please DM me on Telegram.
 - /cancel: Cancel ongoing processes.
 - /restart: ⚠️ Only for Admins.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drex-netizen/TXT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Drex-netizen/TXT&template=https://github.com/Drex-netizen/TXT)
